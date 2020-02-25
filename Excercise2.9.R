@@ -41,3 +41,6 @@ plot(Auto$horsepower,Auto$mpg)
 plot(Auto$weight,Auto$horsepower)
 
 
+#f) displacement, horsepower, weight can be used to predict mpg
+
+
